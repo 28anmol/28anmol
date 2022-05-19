@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **28anmol/28anmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Just some Github stats
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anmol-singh-0b60b31b4">
+<a href="https://www.linkedin.com/in/anmol-singh-0b60b31b4"><img src="https://img.shields.io/badge/-Anmol-informational?style=for-the-badge&logo=linkedin" height=25></a>
 
 </p>
 
@@ -25,4 +25,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
