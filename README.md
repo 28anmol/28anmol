@@ -6,7 +6,7 @@
 ## Just some Github stats
 
 <p align="center">
-  <a href="https://github.com/28anmol/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28anmol&layout=compact&include_all_commits=true" alt="Top Langs on Github"></a>
+  <a href="https://github.com/28anmol/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28anmol&include_all_commits=true" alt="Top Langs on Github"></a>
 </p>
 
 <p align="center">
