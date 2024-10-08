@@ -13,15 +13,3 @@
 <a href="https://www.linkedin.com/in/anmol-singh-0b60b31b4"><img src="https://img.shields.io/badge/-Anmol-informational?style=for-the-badge&logo=linkedin" height=25></a>
 
 </p>
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on AI and ROS
-- 🌱 I’m currently learning AI and ROS
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: anmol280399@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: 
