@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-**28anmol/28anmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Just some Github stats
 
 <p align="center">
