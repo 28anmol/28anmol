@@ -157,7 +157,7 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
     </td>
    <td align="center" width="96">
       <a href = "">
-        <img src="https://cdn.simpleicons.org/scikitlearn/#F7931E" width="48" height="48" alt="scikit-learn" />
+        <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="scikit-learn" />
       </a>
       <br>scikit-learn
     </td>
