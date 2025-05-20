@@ -14,7 +14,7 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
 
 - 🎓 B.Sc in Mechatronic Systems Engineering (Rhein-Waal University of Applied Sciences, Germany)
 - 🌍 International Journey: Studied in Germany, worked in the Netherlands, now based in India
-- 📊 Data Science · 🤖 ML/AI · ⚡ Embedded Systems · 🤖 Robotics (ROS)
+- 📊 Data Science · 🤖 ML/AI · ⚡ Micrcontrollers · ⚡ Embedded Systems/IoT · 🤖 Robotics (ROS)
 - 💻 Low-level Programming: Bare-metal C/C++, shell scripting, memory & registers
 - 🔌 Fundamentals Focus: Exploring computer architecture, electronics, and electricity at the deepest level
 - 🚀✈️ Space Tech Aspirant: Learning and mastering low level programming in C/C++, exploring fundamentals of real time OS and looking forward to build avionics software
