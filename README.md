@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Borel&size=25&duration=4000&pause=1000&width=1100&lines=Hello%2C+there!+Hello%2C+World!%F0%9F%91%8B;I'm+Anmol!+Welcome+to+my+Github+profile!;I'm+a+Mechatronic+Systems+Engineer!;From+bits+and+bytes+to+bots+and+brains+%E2%80%94+I+chase+what+makes+machines+tick+and+think.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Borel&size=40&pause=1000&width=1100&lines=Hello%2C+there!+Hello%2C+World!%F0%9F%91%8B;I'm+Anmol!+Welcome+to+my+Github+profile!;I'm+a+Mechatronic+Systems+Engineer!;From+bits+and+bytes+to+bots+and+brains+%E2%80%94+I+chase+what+makes+machines+tick+and+think.)](https://git.io/typing-svg)
 ## Just some Github stats
 
 <p align="center">
