@@ -19,12 +19,12 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
 - 🔌 Fundamentals Focus: Exploring computer architecture, electronics, and electricity at the deepest level
 - 🚀✈️ Space Tech Aspirant: Learning and mastering low level programming in C/C++, exploring fundamentals of real time OS and looking forward to build avionics software
 
-## Languages
+## Programming Languages
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="">
+      <a>
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       </a>
       <br>Python
