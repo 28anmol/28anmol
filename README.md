@@ -214,4 +214,4 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
 </table>
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=28anmol&show_icons=true&theme=github_dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=28anmol&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=28anmol&layout=compact&theme=github_dark)
