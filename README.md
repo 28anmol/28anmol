@@ -10,6 +10,9 @@
   </a>
 </p>
 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&s=35)](https://www.linkedin.com/in/anmol-singh-0b60b31b4/)
+[![Gmail](https://skillicons.dev/icons?i=gmail&s=35)](mailto:anmol280399@gmail.com)
+
 ## Just some Github stats
 
 <p align="center">
