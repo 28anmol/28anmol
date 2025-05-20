@@ -73,3 +73,14 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
 </table>
 
 ## Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+      </a>
+      <br>VSCode
+    </td>
+  </tr>
+</table>
