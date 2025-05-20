@@ -151,7 +151,7 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
     </td>
   <td align="center" width="96">
       <a href = "">
-        <img src="https://cdn.simpleicons.org/scipy/#8CAAE6" width="48" height="48" alt="Scipy" />
+        <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="48" height="48" alt="Scipy" />
       </a>
       <br>SciPy
     </td>
