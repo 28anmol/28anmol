@@ -275,3 +275,4 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
   </tr>
 </table>
 
+<img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=28anmol&theme=github_dark">
