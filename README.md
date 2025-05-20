@@ -214,4 +214,15 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
 </table>
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=28anmol&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=28anmol&layout=compact&theme=github_dark)
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=28anmol&show_icons=true&count_private=true&theme=github_dark" height="200"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=28anmol&theme=dark&date_format=M%20j%5B%2C%20Y%5D" height="200"/>
+    </td>
+  </tr>
+</table>
