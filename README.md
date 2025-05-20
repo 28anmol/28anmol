@@ -261,7 +261,7 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28anmol&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28anmol&layout=compact&theme=github_dark" />
 </div>
 
 <table>
