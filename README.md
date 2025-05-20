@@ -271,7 +271,7 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
       <img src="https://github-readme-stats.vercel.app/api?username=28anmol&show_icons=true&count_private=true&theme=github_dark" height="200"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=28anmol&theme=github_dark" height="200"/>
+      <img src="https://streak-stats.demolab.com?user=28anmol&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D" height="200"/>
     </td>
   </tr>
 </table>
