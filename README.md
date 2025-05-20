@@ -178,7 +178,7 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
   <tr>
     <td align="center" width="96">
       <a href = "">
-        <img src="https://skillicons.dev/icons?i=Linux" width="48" height="48" alt="Linux" />
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux (Ubuntu)
     </td>
