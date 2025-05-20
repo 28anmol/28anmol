@@ -281,15 +281,17 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
 </div>
 
 
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=28anmol&theme=github_dark&exclude=" height="200"/>
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=28anmol&theme=github_dark&exclude=" height="200"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+ 
+ <table>
+   <tr>
+     <td>
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=28anmol&theme=github_dark&exclude=" height="200"/>
+     </td>
+     <td>
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=28anmol&theme=github_dark&exclude=" height="200"/>
+     </td>
+   </tr>
+ </table>
 
-
+</div>
