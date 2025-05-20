@@ -230,3 +230,6 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28anmol&layout=compact&theme=github_dark" />
 </div>
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=28anmol&theme=github-compact)
