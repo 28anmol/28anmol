@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anmol-singh-0b60b31b4/" target="_blank">
-  <img src="[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)" width="30" height="30" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" alt="LinkedIn"/>
 </a>
 </p>
 
