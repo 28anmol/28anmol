@@ -52,9 +52,9 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
     </td>
     <td align="center" width="96">
       <a href = "">
-        <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB/Simulink" />
+        <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB" />
       </a>
-      <br>MATLAB/Simulink
+      <br>MATLAB
     </td>
   </tr>
 </table>
