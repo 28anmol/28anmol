@@ -129,6 +129,24 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
       </a>
       <br>Jupyter Notebook
     </td>
+   <td align="center" width="96">
+      <a href = "">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" height="48" alt="NumPy" />
+      </a>
+      <br>NumPy
+    </td>
+   <td align="center" width="96">
+      <a href = "">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+   <td align="center" width="96">
+      <a href = "">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" alt="Matplotlib" />
+      </a>
+      <br>Matplotlib
+    </td>
   </tr>
 </table>
 
