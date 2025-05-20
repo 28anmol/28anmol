@@ -149,6 +149,18 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
       </a>
       <br>Matplotlib
     </td>
+  <td align="center" width="96">
+      <a href = "">
+        <img src="https://cdn.simpleicons.org/SciPy/#8CAAE6" width="48" height="48" alt="Scipy" />
+      </a>
+      <br>SciPy
+    </td>
+   <td align="center" width="96">
+      <a href = "">
+        <img src="https://cdn.simpleicons.org/scikit-learn/#F7931E" width="48" height="48" alt="scikit-learn" />
+      </a>
+      <br>scikit-learn
+    </td>
   </tr>
 </table>
 
