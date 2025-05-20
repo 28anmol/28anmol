@@ -229,5 +229,5 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
  
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=28anmol&layout=compact&theme=github_dark)
 </div>
