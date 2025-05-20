@@ -137,7 +137,7 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
     </td>
    <td align="center" width="96">
       <a href = "">
-        <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark_64.png" width="48" height="48" alt="Pandas" />
+        <img src="https://cdn.simpleicons.org/pandas/150%25" width="48" height="48" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
