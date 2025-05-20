@@ -2,8 +2,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anmol-singh-0b60b31b4/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" alt="LinkedIn"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" alt="LinkedIn"/>
+  </a>
+  <a href="anmol280399@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="35" height="35" alt="Gmail"/>
+  </a>
 </p>
 
 ## Just some Github stats
