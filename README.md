@@ -77,6 +77,12 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
     </td>
     <td align="center" width="96">
       <a href = "">
+        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center" width="96">
+      <a href = "">
         <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown" />
       </a>
       <br>Markdown
