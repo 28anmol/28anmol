@@ -19,10 +19,16 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
 - 🔌 Fundamentals Focus: Exploring computer architecture, electronics, and electricity at the deepest level
 - 🚀✈️ Space Tech Aspirant: Learning and mastering low level programming in C/C++, exploring fundamentals of real time OS and looking forward to build avionics software
 
-## Just some Github stats
+## Languages
 
-<p align="center">
-  <a href="https://github.com/28anmol/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28anmol&include_all_commits=true&size_weight=0.5&count_weight=0.5" alt="Top Langs on Github"></a>
-</p>
-
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+</table>
 
