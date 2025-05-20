@@ -123,6 +123,12 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
       </a>
       <br>Tensorflow
     </td>
+   <td align="center" width="96">
+      <a href = "">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="JupyterNotebook" />
+      </a>
+      <br>Jupyter Notebook
+    </td>
   </tr>
 </table>
 
