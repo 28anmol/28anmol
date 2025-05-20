@@ -59,3 +59,17 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
   </tr>
 </table>
 
+## Libraries and Frameworks
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      </a>
+      <br>OpenCV
+    </td>
+  </tr>
+</table>
+
+## Tools
