@@ -134,6 +134,12 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
     </td>
     <td align="center" width="96">
       <a href = "">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href = "">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Github" />
       </a>
       <br>Github
