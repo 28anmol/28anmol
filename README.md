@@ -58,12 +58,32 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
     </td>
     <td align="center" width="96">
       <a href = "">
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+      </a>
+      <br>R
+    </td>
+  </tr>
+</table>
+
+## Scripting & Markup Languages
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href = "">
         <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown" />
+      </a>
+      <br>Markdown
+    </td>
   </tr>
 </table>
+
 
 ## Libraries & Frameworks
 
@@ -81,6 +101,18 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
       </a>
       <br>ROS
     </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      </a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Tensorflow" />
+      </a>
+      <br>Tensorflow
+    </td>
   </tr>
 </table>
 
@@ -96,18 +128,6 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
     </td>
     <td align="center" width="96">
       <a href = "">
-        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
-      </a>
-      <br>Arduino
-    </td>
-    <td align="center" width="96">
-      <a href = "">
-        <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown" />
-      </a>
-      <br>Markdown
-    </td>
-    <td align="center" width="96">
-      <a href = "">
         <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
       </a>
       <br>Anaconda
@@ -118,12 +138,61 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
       </a>
       <br>Github
     </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
+      </a>
+      <br>PyCharm
     </td>
     <td align="center" width="96">
       <a href = "">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="Sublime" />
       </a>
-      <br>Linux
+      <br>Sublime
+    </td>
+  </tr>
+</table>
+
+## Microcontrollers, Embedded Systems & IoT Platforms
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="RaspberryPi" />
+      </a>
+      <br>RaspberryPi
+    </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+      </a>
+      <br>Arduino UNO/Mega
+    </td>
+  </tr>
+</table>
+
+## Operating Systems
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=Linux" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux (Ubuntu)
+    </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
+      </a>
+      <br>Windows
+    </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="MacOS" />
+      </a>
+      <br>MacOS
     </td>
   </tr>
 </table>
