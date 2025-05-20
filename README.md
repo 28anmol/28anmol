@@ -3,7 +3,7 @@
 <div align = "center">
  <img src = "https://komarev.com/ghpvc/?username=28anmol&color=ff69b4&style=for-the-badge" />
 </div>
-
+<br><br>
 <p align="center">
  <img src="https://c.tenor.com/Z_Z9gYlFDc0AAAAC/hello-penguin.gif" alt="E Penguin Shop" style="margin: 0px 15%;text-align:center;width:200px;"/>
 </p>
