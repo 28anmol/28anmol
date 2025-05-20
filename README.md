@@ -212,3 +212,6 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
     </td>
   </tr>
 </table>
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=28anmol&show_icons=true&theme=github_dark)
