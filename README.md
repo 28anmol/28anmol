@@ -94,7 +94,6 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
       </a>
       <br>VSCode
     </td>
-    <tr>
     <td align="center" width="96">
       <a href = "">
         <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
