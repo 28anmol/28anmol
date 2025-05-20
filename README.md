@@ -56,10 +56,16 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
       </a>
       <br>MATLAB
     </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
   </tr>
 </table>
 
-## Libraries and Frameworks
+## Libraries & Frameworks
 
 <table>
   <tr>
@@ -69,10 +75,16 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
       </a>
       <br>OpenCV
     </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS" />
+      </a>
+      <br>ROS
+    </td>
   </tr>
 </table>
 
-## Tools
+## Tools & Technologies
 
 <table>
   <tr>
@@ -81,6 +93,38 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
       </a>
       <br>VSCode
+    </td>
+    <tr>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+      </a>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown" />
+      </a>
+      <br>Markdown
+    </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
+      </a>
+      <br>Anaconda
+    </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
+    </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
     </td>
   </tr>
 </table>
