@@ -93,6 +93,12 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
       </a>
       <br>Markdown
     </td>
+   <td align="center" width="96">
+      <a href = "">
+        <img src="https://cdn.simpleicons.org/zsh/F15A24" width="48" height="48" alt="zsh" />
+      </a>
+      <br>zsh
+    </td>
   </tr>
 </table>
 
