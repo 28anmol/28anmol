@@ -9,8 +9,15 @@
 
 </div>
 
-## 🚀 About Me
+## Little Bit About Me
 I’m Anmol, a versatile Mechatronics engineer and developer with a passion for bridging the gap between high-level prototyping and low-level hardware design. Whether I’m quickly iterating Python scripts for data analysis and ML/AI experiments or delving into bare-metal C/C++ on microcontrollers, I thrive on mastering the full stack—from cloud‑scale algorithms to transistor‑level electronics. My goal is to architect high-performance, resource‑efficient systems that can one day power spacecraft and autonomous robots.
+
+- 🎓 B.Sc in Mechatronic Systems Engineering (Rhein-Waal University of Applied Sciences, Germany)
+- 🌍 International Journey: Studied in Germany, worked in the Netherlands, now based in India
+- 📊 Data Science · 🤖 ML/AI · ⚡ Embedded Systems · 🤖 Robotics (ROS)
+- 💻 Low-level Programming: Bare-metal C/C++, shell scripting, memory & registers
+- 🔌 Fundamentals Focus: Exploring computer architecture, electronics, and electricity at the deepest level
+- 🚀✈️ Space Tech Aspirant: Learning and mastering low level programming in C/C++, exploring fundamentals of real time OS and looking forward to build avionics software
 
 ## Just some Github stats
 
