@@ -29,6 +29,33 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    </td>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB/Simulink" />
+      </a>
+      <br>MATLAB/Simulink
+    </td>
   </tr>
 </table>
 
