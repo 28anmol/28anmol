@@ -279,4 +279,5 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
 <a  href="https://github.com/28anmol">
  <img src="https://raw.githubusercontent.com/28anmol/28anmol/master/profile-summary-card-output/default/2-most-commit-language.svg" width="32.5%">
 </a>
+</div>
 
