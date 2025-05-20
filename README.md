@@ -9,6 +9,9 @@
 
 </div>
 
+## 🚀 About Me
+I’m Anmol, a versatile Mechatronics engineer and developer with a passion for bridging the gap between high-level prototyping and low-level hardware design. Whether I’m quickly iterating Python scripts for data analysis and ML/AI experiments or delving into bare-metal C/C++ on microcontrollers, I thrive on mastering the full stack—from cloud‑scale algorithms to transistor‑level electronics. My goal is to architect high-performance, resource‑efficient systems that can one day power spacecraft and autonomous robots.
+
 ## Just some Github stats
 
 <p align="center">
