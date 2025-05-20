@@ -24,7 +24,7 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
 <table>
   <tr>
     <td align="center" width="96">
-      <a>
+      <a href = "">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       </a>
       <br>Python
