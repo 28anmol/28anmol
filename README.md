@@ -296,3 +296,6 @@ I’m Anmol, a versatile Mechatronics engineer and developer with a passion for 
  </table>
 
 </div>
+
+
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=28anmol&theme=github_dark&hide_border=true" />
