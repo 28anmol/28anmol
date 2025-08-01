@@ -259,6 +259,20 @@ I’m Anmol, a versatile Mechatronic Systems Engineer and Developer with a passi
 </table>
 
 
+## Cloud Platforms
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href = "">
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+      </a>
+      <br>GCP
+    </td>
+  </tr>
+</table>
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
